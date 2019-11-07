@@ -1,0 +1,42 @@
+﻿@model estudiartaller.Data.DDL.Vehiculo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Vehiculo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroPlaca)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumeroPlaca)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroMotor)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumeroMotor)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroChasis)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumeroChasis)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

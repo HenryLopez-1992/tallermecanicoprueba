@@ -1,0 +1,171 @@
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.deps.json
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.runtimeconfig.json
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.runtimeconfig.dev.json
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.dll
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csprojAssemblyReference.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csproj.CoreCompileInputs.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorAssemblyInfo.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorAssemblyInfo.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.AssemblyInfoInputs.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.AssemblyInfo.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.TagHelpers.input.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.TagHelpers.output.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorCoreGenerate.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorTargetAssemblyInfo.cache
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorTargetAssemblyInfo.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.pdb
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.Views.dll
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.Views.pdb
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.Views.pdb
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.dll
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.pdb
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csproj.CopyComplete
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Create.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Delete.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Details.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Edit.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Index.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Create.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Delete.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Details.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Edit.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Index.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Create.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Delete.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Details.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Edit.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Index.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Create.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Delete.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Details.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Edit.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Index.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Create.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Delete.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Details.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Edit.g.cshtml.cs
+C:\Users\Admon\source\repos\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.deps.json
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.runtimeconfig.json
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.runtimeconfig.dev.json
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.dll
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.pdb
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.Views.dll
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.Views.pdb
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csprojAssemblyReference.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorAssemblyInfo.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorAssemblyInfo.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.AssemblyInfoInputs.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.AssemblyInfo.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.TagHelpers.input.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.TagHelpers.output.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorCoreGenerate.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Create.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Delete.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Details.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Edit.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Create.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Delete.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Details.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Edit.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Create.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Delete.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Details.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Edit.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Create.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Delete.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Details.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Edit.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Create.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Delete.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Details.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Edit.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Index.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorTargetAssemblyInfo.cache
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorTargetAssemblyInfo.cs
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.Views.pdb
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.dll
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.pdb
+C:\Users\Henry\Downloads\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csproj.CopyComplete
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.deps.json
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.runtimeconfig.json
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.runtimeconfig.dev.json
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.dll
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.pdb
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.Views.dll
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\bin\Debug\netcoreapp2.1\estudiartaller.Views.pdb
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csprojAssemblyReference.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorAssemblyInfo.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorAssemblyInfo.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.AssemblyInfoInputs.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.AssemblyInfo.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.TagHelpers.input.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.TagHelpers.output.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorCoreGenerate.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Create.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Delete.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Details.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Edit.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Index.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Create.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Delete.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Details.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Edit.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\ServicioMecanico\Index.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Create.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Delete.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Details.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Edit.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoServicios\Index.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Create.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Delete.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Details.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Edit.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\TipoVehiculo\Index.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Create.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Delete.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Details.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Edit.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\Vehiculo\Index.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorTargetAssemblyInfo.cache
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.RazorTargetAssemblyInfo.cs
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.Views.pdb
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.dll
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.pdb
+C:\Users\Henry\Desktop\Finales\Desarrollo web\PRACTICA\estudiartaller\estudiartaller\obj\Debug\netcoreapp2.1\estudiartaller.csproj.CopyComplete
